@@ -13,4 +13,5 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 
 将该文件添加到dev分支
+Creating a new branch is quick & simple.
 
