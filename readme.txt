@@ -12,6 +12,5 @@ Git tracks changes of files.
 第一次修改 add 之后进行第二次修改
 My stupid boss still prefers SVN.
 
-将该文件添加到dev分支
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
 
